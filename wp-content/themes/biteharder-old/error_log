@@ -1,0 +1,12 @@
+[29-Sep-2017 07:35:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/404.php on line 1
+[30-Sep-2017 09:57:54 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
+[06-Oct-2017 08:31:43 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
+[08-Oct-2017 23:59:50 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
+[09-Oct-2017 09:05:17 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/404.php on line 1
+[10-Oct-2017 16:10:25 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/404.php on line 1
+[11-Oct-2017 05:57:14 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
+[12-Oct-2017 12:43:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/404.php on line 1
+[13-Oct-2017 03:14:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/index.php on line 1
+[14-Oct-2017 00:04:17 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
+[16-Oct-2017 22:41:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/index.php on line 1
+[17-Oct-2017 14:16:42 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/glenn/public_html/biteharder.com/wp-content/themes/biteharder/header.php on line 2
